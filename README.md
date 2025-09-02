@@ -43,7 +43,7 @@ An example output plot is shown below:
 
 3. **View results**  
    - The simulation outputs plots of errors and views.  
-   - Results are saved in the `output/` directory for further inspection.
+   - Results are saved in the `slam_output/` directory for further inspection.
 
 ## Contributing
 
